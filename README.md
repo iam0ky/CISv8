@@ -35,9 +35,8 @@ https://www.cisecurity.org/controls/cis-controls-list/
 
 Youtube Channel: Rick's Cybersecurity Videos
 
-# Frameworks
+# Cybersecurity Frameworks
 
-Cybersecurity frameworks
 
 NIST CSF (https://www.nist.gov/cyberframework/framework)
 
