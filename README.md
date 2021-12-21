@@ -35,6 +35,15 @@ https://www.cisecurity.org/controls/cis-controls-list/
 
 Youtube Channel: Rick's Cybersecurity Videos
 
+# Frameworks
+
+Cybersecurity frameworks
+
+NIST CSF (https://www.nist.gov/cyberframework/framework)
+NIST 800-53 (https://csrc.nist.gov/publications/detail/sp/800-53/rev-4/archive/2015-01-22)
+CIS CSC (https://www.cisecurity.org/controls/)
+ISO/IEC 27001 (https://www.iso.org/isoiec-27001-information-security.html)
+
 
 # Courses
 
