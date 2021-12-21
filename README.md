@@ -46,6 +46,8 @@ CIS CSC (https://www.cisecurity.org/controls/)
 
 ISO/IEC 27001 (https://www.iso.org/isoiec-27001-information-security.html)
 
+COBIT
+
 
 # Courses
 
